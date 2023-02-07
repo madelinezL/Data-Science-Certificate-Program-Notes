@@ -14,4 +14,4 @@ I currently am enrolling the advanced data science certificate program at Monroe
 * Big Data Management and Analytics
   - Hadoop Framework Documentation (to be uploaded)
 * Machine Learning (ongoing this semester)
-
+* Applied Data Science Project (ongoing this semester)
