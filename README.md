@@ -6,12 +6,12 @@ I currently am enrolling the advanced data science certificate program at Monroe
 * Database Systems
   - SQL (to be uploaded)
 * Statistical Computing
-  - R (to be uploaded)
+  - R (code to be uploaded)
 * Data Science
   - R (to be uploaded)
 * Analytic Techniques
-  - SAS (to be uploaded)
+  - SAS (notes to be uploaded)
 * Big Data Management and Analytics
-  - Hadoop Framework Documentation (to be uploaded)
+  - Hadoop Framework Documentation
 * Machine Learning (ongoing this semester)
 * Applied Data Science Project (ongoing this semester)
