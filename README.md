@@ -1,1 +1,1 @@
-# Data-Science-Certificate-Program-Lecture-Notes
+# Data-Science-Notes
