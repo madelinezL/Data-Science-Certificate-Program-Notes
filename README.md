@@ -4,7 +4,14 @@ I currently am enrolling the advanced data science certificate program at Monroe
 * Object Oriented Software <br/>
   - Python Programs
 * Database Systems
-  - Clustering and PCA for wine 
-  - Market Segmentation
-  - Association Rules for grocery purchases <br/>
-* National Gas Demand Prediction Mode
+  - SQL (to be uploaded)
+* Statistical Computing
+  - R (to be uploaded)
+* Data Science
+  - R (to be uploaded)
+* Analytic Techniques
+  - SAS (to be uploaded)
+* Big Data Management and Analytics
+  - Hadoop Framework Documentation (to be uploaded)
+* Machine Learning (ongoing this semester)
+
