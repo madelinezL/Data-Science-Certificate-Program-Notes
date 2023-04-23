@@ -1,6 +1,6 @@
 # Data Science Certificate Program Notes
 
-I currently am enrolling the advanced data science certificate program at Monroe College. This repository includes my data science lecture notes/assignments of different courses I've taken so far. <br/> <br/>
+I enrolled the advanced data science certificate program at Monroe College from April 2022 to April 2023. This repository includes my data science lecture notes/assignments of the courses I've taken. <br/> <br/>
 * Object Oriented Software <br/>
   - Python Programs
 * Database Systems
@@ -13,5 +13,7 @@ I currently am enrolling the advanced data science certificate program at Monroe
   - SAS
 * Big Data Management and Analytics
   - Hadoop Framework Documentation
-* Machine Learning (ongoing this semester)
-* Applied Data Science Project (ongoing this semester)
+* Machine Learning
+  - Theory 
+* Applied Data Science Project 
+  - Hands On Project
